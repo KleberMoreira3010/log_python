@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "poetry run python exemplo-00-py"
+version = "0.1.0"
+description = ""
+authors = ["KleberMoreira3010 <klb_moreira@hotmail.com>"]
+readme = "README.md"
+packages = [{include = "poetry run python exemplo_00"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
