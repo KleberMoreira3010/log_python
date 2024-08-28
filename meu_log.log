@@ -1,0 +1,5 @@
+2024-08-27 21:41:24.838 | INFO     | __main__:soma:8 -  Você selecionou valores corretos5
+2024-08-27 21:41:24.838 | INFO     | __main__:soma:8 -  Você selecionou valores corretos12
+2024-08-27 21:41:24.838 | CRITICAL | __main__:soma:11 - Você digitol valores inválidos
+2024-08-27 21:42:48.103 | CRITICAL | __main__:soma:11 - Você digitol valores inválidos
+2024-08-27 21:43:14.714 | CRITICAL | __main__:soma:11 - Você digitol valores inválidos
